@@ -1,6 +1,10 @@
-# I'm Ren Ichinose
+## I'm Ren Ichinose
 
-### Philosophy
+<details>
+
+<summary>Philosophy　〜 大切にする哲学 〜</summary>
+
+### Mission
 
 __〜世のため、人のため、自分のため〜__  
 企業が描く未来の実現に貢献し、企様の事業の発展を通じて世の中をより良くする。
@@ -18,13 +22,23 @@ __〜高き志で道を切り拓く〜__
 自分を認め尊び愛する。  
 夢を描き夢を追いかける。
 
-### GitHub Status
+</details>
+
+<details>
+
+<summary>GitHub Status　〜 GitHubでの活動 〜</summary><br>
 
 <img
   alt="Top Langs"
-  src="https://github-readme-stats.vercel.app/api?username=ren-ichinose&show_icons=true&theme=dracula"
+  src="https://github-readme-stats.vercel.app/api?username=ren-ichinose&show_icons=true&theme=default"
 />
 
-### Language & tool
+</details>
+
+<details>
+
+<summary>Language & tool　〜 使用言語とツール 〜</summary><br>
 
 [![My Skills](https://skillicons.dev/icons?i=js,ts,react,next,nodejs,nest,mysql,postgres,docker,linux,git&theme=dark)](https://skillicons.dev)
+
+</details>
