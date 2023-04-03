@@ -6,12 +6,12 @@
 
 ### Mission
 
-__〜世のため、人のため、自分のため〜__  
+**〜世のため、人のため、自分のため〜**  
 企業が描く未来の実現に貢献し、企様の事業の発展を通じて世の中をより良くする。
 
 ### Vision
 
-__〜高き志で道を切り拓く〜__  
+**〜高き志で道を切り拓く〜**  
 技術力と人間力の向上に努め、エンジニアとしての価値を高めるとともに、企業の期待に応えてゆく。
 
 ### Values
@@ -26,12 +26,31 @@ __〜高き志で道を切り拓く〜__
 
 <details>
 
-<summary>GitHub Status　〜 GitHubでの活動 〜</summary><br>
+<summary>GitHub Status　〜 GitHubでの活動 〜</summary>
 
-<img
-  alt="Top Langs"
-  src="https://github-readme-stats.vercel.app/api?username=ren-ichinose&show_icons=true&theme=default"
+<picture>
+<source 
+  srcset="https://github-readme-stats.vercel.app/api?username=ren-ichinose&show_icons=true&hide_border=true&theme=dark&hide=stars,contribs"
+  media="(prefers-color-scheme: dark)"
 />
+<source
+  srcset="https://github-readme-stats.vercel.app/api?username=ren-ichinose&show_icons=true&hide_border=true&hide=stars,contribs"
+  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+/>
+<img src="https://github-readme-stats.vercel.app/api?username=ren-ichinose&show_icons=true&hide_border=true&hide=stars,contribs" />
+</picture>
+
+<picture>
+<source 
+  srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ren-ichinose&show_icons=true&hide_border=true&theme=dark&layout=compact&hide=html,css,pug"
+  media="(prefers-color-scheme: dark)"
+/>
+<source
+  srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ren-ichinose&show_icons=true&hide_border=true&layout=compact&hide=html,css,pug"
+  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+/>
+<img align=top src="https://github-readme-stats.vercel.app/api/top-langs/?username=ren-ichinose&show_icons=true&hide_border=true&layout=compact&hide=html,css,pug" />
+</picture>
 
 </details>
 
