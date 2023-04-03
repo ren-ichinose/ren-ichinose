@@ -61,3 +61,38 @@
 [![My Skills](https://skillicons.dev/icons?i=js,ts,react,next,nodejs,nest,mysql,postgres,docker,linux,git&theme=dark)](https://skillicons.dev)
 
 </details>
+
+<details>
+
+<summary>My repositories　〜 オススメのリポジトリ 〜</summary><br>
+
+<a href="https://github.com/ren-ichinose/230213_NestJS_Nextjs_learning">
+<picture>
+<source 
+  srcset="https://github-readme-stats.vercel.app/api/pin/?username=ren-ichinose&theme=transparent&title_color=fff&text_color=fff&repo=230213_NestJS_Nextjs_learning"
+  media="(prefers-color-scheme: dark)"
+/>
+<source
+  srcset="https://github-readme-stats.vercel.app/api/pin/?username=ren-ichinose&repo=230213_NestJS_Nextjs_learning"
+  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+/>
+<img align=top src="https://github.com/ren-ichinose/230213_NestJS_Nextjs_learning" />
+</picture>
+</a>
+
+<a href="https://github.com/ren-ichinose/230223_Nextjs_Supabase_learning">
+<picture>
+<source 
+  srcset="https://github-readme-stats.vercel.app/api/pin/?username=ren-ichinose&theme=transparent&title_color=fff&text_color=fff&repo=230223_Nextjs_Supabase_learning"
+  media="(prefers-color-scheme: dark)"
+/>
+<source
+  srcset="https://github-readme-stats.vercel.app/api/pin/?username=ren-ichinose&repo=230223_Nextjs_Supabase_learning"
+  src
+  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+/>
+<img align=top src="https://github.com/ren-ichinose/230223_Nextjs_Supabase_learning" />
+</picture>
+</a>
+
+</details>
