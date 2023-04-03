@@ -30,19 +30,19 @@
 
 <picture>
 <source 
-  srcset="https://github-readme-stats.vercel.app/api?username=ren-ichinose&show_icons=true&hide_border=true&theme=dark&hide=stars,contribs"
+  srcset="https://github-readme-stats.vercel.app/api?username=ren-ichinose&show_icons=true&hide_border=true&theme=transparent&title_color=fff&text_color=fff&text_bold=false&count_private=true&hide=stars,contribs"
   media="(prefers-color-scheme: dark)"
 />
 <source
-  srcset="https://github-readme-stats.vercel.app/api?username=ren-ichinose&show_icons=true&hide_border=true&hide=stars,contribs"
+  srcset="https://github-readme-stats.vercel.app/api?username=ren-ichinose&show_icons=true&hide_border=true&text_bold=false&count_private=true&hide=stars,contribs"
   media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
 />
-<img src="https://github-readme-stats.vercel.app/api?username=ren-ichinose&show_icons=true&hide_border=true&hide=stars,contribs" />
+<img src="https://github-readme-stats.vercel.app/api?username=ren-ichinose&show_icons=true&hide_border=true&text_bold=false&count_private=true&hide=stars,contribs" />
 </picture>
 
 <picture>
 <source 
-  srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ren-ichinose&show_icons=true&hide_border=true&theme=dark&layout=compact&hide=html,css,pug"
+  srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ren-ichinose&show_icons=true&hide_border=true&theme=transparent&title_color=fff&text_color=fff&layout=compact&hide=html,css,pug"
   media="(prefers-color-scheme: dark)"
 />
 <source
