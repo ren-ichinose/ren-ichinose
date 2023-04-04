@@ -1,20 +1,30 @@
-## I'm Ren Ichinose
+## ✨✨✨About me✨✨✨
+---
+
+### Introduction 〜 基本情報 〜
+- 名前：　一ノ瀬 蓮 (Ichinose Ren)
+- 年齢：　27歳
+- 居住地：　東京・千葉
+- 連絡先：　ichinose.ren.it@gmail.com
+- スキル：　TypeScript・Next.js・NestJS
+
+---
 
 <details>
 
 <summary>Philosophy　〜 大切にする哲学 〜</summary>
 
-### Mission
+### ✨Mission
 
 **〜世のため、人のため、自分のため〜**  
 企業が描く未来の実現に貢献し、企様の事業の発展を通じて世の中をより良くする。
 
-### Vision
+### ✨Vision
 
 **〜高き志で道を切り拓く〜**  
 技術力と人間力の向上に努め、エンジニアとしての価値を高めるとともに、企業の期待に応えてゆく。
 
-### Values
+### ✨Values
 
 良心に従う。  
 追求心をもって最善を尽くす。  
@@ -22,11 +32,13 @@
 自分を認め尊び愛する。  
 夢を描き夢を追いかける。
 
+---
+
 </details>
 
 <details>
 
-<summary>GitHub Status　〜 GitHubでの活動 〜</summary>
+<summary>GitHub Status　〜 GitHubでの活動 〜</summary><br>
 
 <picture>
 <source 
@@ -52,6 +64,8 @@
 <img align=top src="https://github-readme-stats.vercel.app/api/top-langs/?username=ren-ichinose&show_icons=true&hide_border=true&layout=compact&hide=html,css,pug" />
 </picture>
 
+---
+  
 </details>
 
 <details>
@@ -59,6 +73,8 @@
 <summary>Language & tool　〜 使用言語とツール 〜</summary><br>
 
 [![My Skills](https://skillicons.dev/icons?i=js,ts,react,next,nodejs,nest,mysql,postgres,docker,linux,git&theme=dark)](https://skillicons.dev)
+
+---
 
 </details>
 
@@ -94,5 +110,7 @@
 <img align=top src="https://github.com/ren-ichinose/230223_Nextjs_Supabase_learning" />
 </picture>
 </a>
+
+---
 
 </details>
