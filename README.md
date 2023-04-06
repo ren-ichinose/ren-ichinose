@@ -6,13 +6,11 @@
 
 <br>
 
-プロフィールをご覧いただき、ありがとうございます。
-
+プロフィールをご覧いただき、ありがとうございます。  
 2022年9月より、家族の仕事をサポートする目的で、ITの学習を始めました。  
-現在は「世の中をより良くする」という使命を全うするべく、  
+現在は「世の中をより良くする」という使命を全うするために、  
 「世のため人のために挑戦する企業」への就職を目指し、  
-Next.js・NestJS を中心に、技術力の向上に励んでいます。
-
+Next.js・NestJSを中心に、技術力の向上に励んでいます。  
 ぜひ最後までご覧いただき、より知っていただけたら嬉しいです。
 
 ※採用に関するご提案やご質問は ichinose.ren.it@gmail.com までお願いします ✨  
@@ -20,36 +18,35 @@ Next.js・NestJS を中心に、技術力の向上に励んでいます。
 
 ---
 
-### Introduction 〜 基本情報 〜
+✨ 以下よりアコーディオンを展開してご覧ください ✨
+
+<details>
+
+<summary>Introduction　〜 基本情報 〜</summary>　　
 
 - 名前：　一ノ瀬 蓮 (Ichinose Ren)
-- 年齢：　 27 歳
+- 年齢：　 27歳
 - 居住地：　東京・千葉
 - 連絡先：　ichinose.ren.it@gmail.com
 - スキル：　 TypeScript・Next.js・NestJS
 
 ---
 
-<br>
-
-✨ 以下よりアコーディオンを展開してご覧ください ✨
+</details>
 
 <details>
 
-<summary>Philosophy　〜 大切にする哲学 〜</summary>
+<summary>Philosophy　〜 大切にする哲学 〜</summary>　　
 
-### ✨Mission
-
-**〜世のため、人のため、自分のため〜**  
+**✨Mission**  
+_〜世のため、人のため、自分のため〜_  
 企業が描く未来の実現に貢献し、企様の事業の発展を通じて世の中をより良くする。
 
-### ✨Vision
-
-**〜高き志で道を切り拓く〜**  
+**✨Vision**  
+_〜高き志で道を切り拓く〜_  
 人と技術を磨き、エンジニアとしての価値を高めるとともに、企業の期待に応えてゆく。
 
-### ✨Values
-
+**✨Values**  
 良心に従う。  
 追求心をもって最善を尽くす。  
 周りの人を大切にする。  
@@ -94,7 +91,7 @@ Next.js・NestJS を中心に、技術力の向上に励んでいます。
 
 <details>
 
-<summary>Language & tool　〜 使用言語とツール 〜</summary><br>
+<summary>Language & tool　〜 使用言語とツール 〜</summary>　　
 
 [![My Skills](https://skillicons.dev/icons?i=js,ts,react,next,nodejs,nest,mysql,postgres,docker,linux,git&theme=dark)](https://skillicons.dev)
 
