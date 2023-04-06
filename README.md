@@ -6,28 +6,33 @@
 
 <br>
 
-プロフィールをご覧頂きありがとうございます。  
-私は、2022年9月より家族の仕事をサポートをする目的でITの学習を始めました。  
-現在は「世のため人のために挑戦する企業」へ就職することを目指し、  
-Next.js・NestJSを中心に、技術力の向上に励んでいます。  
-お伝えしたいことが沢山ありますので、ぜひ最後までご覧ください。  
+プロフィールをご覧いただき、ありがとうございます。
 
-※採用に関するご提案やご質問は ichinose.ren.it@gmail.com までお願いします✨
+2022年9月より、家族の仕事をサポートする目的で、ITの学習を始めました。  
+現在は「世の中をより良くする」という使命を全うするべく、  
+「世のため人のために挑戦する企業」への就職を目指し、  
+Next.js・NestJS を中心に、技術力の向上に励んでいます。
+
+ぜひ最後までご覧いただき、より知っていただけたら嬉しいです。
+
+※採用に関するご提案やご質問は ichinose.ren.it@gmail.com までお願いします ✨  
+※[Twitter](https://twitter.com/Ren_Ichinose_IT) や [GitHub](https://github.com/ren-ichinose) のフォローも大歓迎です ✨
 
 ---
 
 ### Introduction 〜 基本情報 〜
+
 - 名前：　一ノ瀬 蓮 (Ichinose Ren)
-- 年齢：　27歳
+- 年齢：　 27 歳
 - 居住地：　東京・千葉
 - 連絡先：　ichinose.ren.it@gmail.com
-- スキル：　TypeScript・Next.js・NestJS
+- スキル：　 TypeScript・Next.js・NestJS
 
 ---
 
 <br>
 
-✨以下よりアコーディオンを展開してご覧ください✨
+✨ 以下よりアコーディオンを展開してご覧ください ✨
 
 <details>
 
@@ -84,7 +89,7 @@ Next.js・NestJSを中心に、技術力の向上に励んでいます。
 </picture>
 
 ---
-  
+
 </details>
 
 <details>
