@@ -37,7 +37,7 @@ Next.js・NestJSを中心に、技術力の向上に励んでいます。
 
 <details>
 
-<summary>Philosophy　〜 大切にする哲学 〜</summary>　　
+<summary>Philosophy　〜大切にする哲学〜</summary>　　
 
 **✨Mission**  
 _〜世のため、人のため、自分のため〜_  
@@ -60,7 +60,22 @@ _〜高き志で道を切り拓く〜_
 
 <details>
 
-<summary>GitHub Status　〜 GitHubでの活動状況 〜</summary><br>
+<summary>Resume　〜学歴・職歴〜</summary>　　
+
+|**略歴**||
+|---|---|
+|2014年 〜 2015年|調理師専門学校に入学<br>料理の華やかさに憧れを抱き、西洋料理を専攻する。|
+|2015年 〜 2016年|通信系営業会社に入社<br>人として成長したいとの想いで営業職を志願する。電話によるアポイントメント獲得業務に従事し、入社から5ヶ月で50名規模の組織で成績最優秀者となる。以降、管理職として契約締結業務と営業チームのマネージメント業務に従事する。|
+|2016年 〜 2018年|個人事業主として営業代行事業を開業<br>営業という仕事を通じて、働くことの面白さを多くの人に伝えたいという想いで事業を立ち上げる。法人向け・個人向け問わず、様々な商材の営業代行のサービスを展開する。|
+|2018年 〜 現在|総合卸商社を設立し、代表取締役に就任<br>日用品・事務用品・防災用品など、豊富な種類の商品の卸売を通じて、お客様企業の購買コストの削減に貢献する事業を展開する。また、経営、法務、経理、営業、事務など、卸売事業に関わる全ての業務に従事している。|
+
+---
+
+</details>
+
+<details>
+
+<summary>GitHub Status　〜GitHubでの活動状況〜</summary><br>
 
 <picture>
 <source 
@@ -92,7 +107,7 @@ _〜高き志で道を切り拓く〜_
 
 <details>
 
-<summary>Language & tool　〜 使用言語とツール 〜</summary>　　
+<summary>Language & tool　〜使用言語とツール〜</summary>　　
 
 [![My Skills](https://skillicons.dev/icons?i=js,ts,react,next,nodejs,nest,mysql,postgres,docker,linux,git&theme=dark)](https://skillicons.dev)
 
@@ -102,7 +117,7 @@ _〜高き志で道を切り拓く〜_
 
 <details>
 
-<summary>My repositories　〜 オススメのリポジトリ 〜</summary><br>
+<summary>My repositories　〜オススメのリポジトリ〜</summary><br>
 
 <a href="https://github.com/ren-ichinose/230213_NestJS_Nextjs_learning">
 <picture>
