@@ -27,8 +27,9 @@ Next.js・NestJSを中心に、技術力の向上に励んでいます。
 - 名前：　一ノ瀬 蓮 (Ichinose Ren)
 - 年齢：　 27歳
 - 居住地：　東京・千葉
-- 連絡先：　ichinose.ren.it@gmail.com
 - スキル：　 TypeScript・Next.js・NestJS
+- 連絡先：　ichinose.ren.it@gmail.com
+- SNS：　https://twitter.com/Ren_Ichinose_IT
 
 ---
 
@@ -59,7 +60,7 @@ _〜高き志で道を切り拓く〜_
 
 <details>
 
-<summary>GitHub Status　〜 GitHubでの活動 〜</summary><br>
+<summary>GitHub Status　〜 GitHubでの活動状況 〜</summary><br>
 
 <picture>
 <source 
